@@ -1,23 +1,13 @@
 # UMKC_Fall_2017_Hackathon
 
-Problem Statement:
+LoCoMo (Phone Mode Changer) is an android application which automatically changes the mode of your phone(i.e. Ringer to silent) based on your location.
+ 
+It determines your location with the help of GPS and we are able to give specific time and location of a desired event and mode of the phone we want at that time. It changes accordingly.
+ 
+For example, if you want to be at church on every Sunday and you want your phone to be in silent mode; You can create an event accordingly in this application and the mode automatically changes from ringer mode to silent mode and vice-versa come out of the church.
 
-Do you remember those moments where your phone rings during class and you scramble to turn it off? Perhaps this has happened in a meeting or during an interview. Have you ever been on a flight and realized that you’ve forgotten to switch to airplane mode? Have you ever missed a phone call because you had not switched from silent mode? A mobile application that addresses these issues would be helpful.
 
-Application Specifications
-
-· The application should have two options. When the first option is selected, the user should be prompted every time for permission before the app decides to change the existing mode. When the second option is selected, the app changes the modes automatically without asking the user for any permission
-
-· Design a mobile application that determines your location and changes your phone to the appropriate mode dynamically
-
-· When the user is at a location where the phone is expected to be silent, (e.g. places of worship, classroom, team meetings etc.) the phone should switch to silent mode
-
-· When the user is on a flight, the phone should turn on airplane mode
-
-· At other locations, the phone should switch to ringing mode.
-
-· The app should sense the user’s location, (e.g. church, home etc.) using the Google Maps API. 
 
 Video description for the project is :
 
-https://www.youtube.com/watch?v=X7nz5VBxk9g&feature=youtu.be
+https://www.youtube.com/watch?v=mUm6Ypoi_LI&feature=youtu.be

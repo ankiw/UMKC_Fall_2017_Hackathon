@@ -18,14 +18,6 @@ Application Specifications
 
 · The app should sense the user’s location, (e.g. church, home etc.) using the Google Maps API. 
 
-Candidates Upload Resume Page to create resume in mongo DB:
-
-
-
-Selected Candidates Page which recruiters have published:
-
-
-
 Video description for the project is :
 
 https://www.youtube.com/watch?v=X7nz5VBxk9g&feature=youtu.be

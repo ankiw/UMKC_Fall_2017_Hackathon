@@ -1,6 +1,6 @@
 # UMKC_Fall_2017_Hackathon
 
-LoCoMo (Phone Mode Changer) is an android application which automatically changes the mode of your phone(i.e. Ringer to silent) based on your location.
+**LoCoMo (Phone Mode Changer) is an android application which automatically changes the mode of your phone(i.e. Ringer to silent) based on your location**
  
 It determines your location with the help of GPS and we are able to give specific time and location of a desired event and mode of the phone we want at that time. It changes accordingly.
  
